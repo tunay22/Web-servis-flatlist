@@ -1,0 +1,17 @@
+{
+  "name": "WebServis",
+  "displayName": "WebServis",
+  "expo": {
+    "name": "WebServis",
+    "slug": "WebServis",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
